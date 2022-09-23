@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Browser rendering</title>
+        <style>
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2family=Roboto:ital,wght@1,500&display=swap"rel="stylesheet">
+            <link rel="stylesheet" href="buttons.css">
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+        </style>
+    </head>
+    <body style="background-color:white;">
+<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
+        <div style="background-color:black; color:white; border: 3px solid currentcolor;border-radius:50px">
+        <div style="margin-left:50px;margin-right:50px;margin-top:50px">
+ <h1 style="font-family:'Roboto', sans-serif;">what is browser rendering?</h1><br\>
+        <p style="font-family:'Roboto', sans-serif;">Whenever you are developing a website, there are certain things that are very essential for a good user experience. Some of the common problems a website may encounter could be <strong> slow loading of the resources, waiting for unnecessary files to download on initial render, a flash of unstyled content (FOUC),</strong> etc. To avoid such problems, we need to understand the lifecycle of how a browser renders a typical webpage </p><br\>
+       <p style="font-family:'Roboto', sans-serif;">first we need to understand what is <strong>DOM</strong>(Document Object Model). Whwn a browser sends a request to a server to fetch an HTML document, the server returns an HTML page in binary stram format which is basically a text file with the response header Content-Type set to the value text/html; charset=UTF-8 </p>
+ <h2 style="font-family:'Roboto', sans-serif;">Document Object Model (DOM)</h2>
+ <p style="font-family:'Roboto', sans-serif;">When the browser reads HTML code, whenever it encounters an HTML element like html, body, div etc., it creates a JavaScript object called a Node. Eventually, all HTML elements will be converted to JavaScript objects.</p>
+<p style="font-family:'Arial', sans-serif;">Since every HTML element has different properties, the Node object will be created from different classes (constructor functions). For example  the Node object for the div element is created from HTMLDivElement which inherits Node class. For our earlier HTML document, we can visualize these nodes using a simple test as below.</p>
+<p style="font-family:'Roboto', sans-serif;">The browser comes with built-in classes like HTMLDivElement, HTMLScriptElement, Node etc.</p>
+<h3 style="font-family:'Roboto', sans-serif;">After the browser created Nodes from the HTML document, it has to create a tree like structure of these node objects. Since these HTML elements in the HTML file are nested inside each other, the browser needs to replicate that but using Node Objects it has previously created. This will help the browser effeciently render and manage the webpages throughout its lifecycle.</h3>
+<center><img src="https://miro.medium.com/max/640/1*YSA8lCfCVPn3d6GWAVokrA.png" /></center>
+
+<p style="font-family:'Roboto', sans-serif; color:white; background-color:black; padding:50px; font-size:20px; border-radius:20px">A DOM tree for our HTML document looks like above. A DOM tree starts from the topmost element in HTML element and branches out as per the occurrence and nesting of HTML elements in the document. Whwnever HTML elements is found, it creates a DOM node object from its respective class</p>
+<h2 style="font-family:'Roboto', sans-serif;">CSS Object Model (CSSOM)</h2>
+<p style="font-family:'Roboto', sans-serif;">When we design a website, our intentions are to make it as good looking as possible. And we do that by providing some styles to HTML elements.In the HTML page, we provide stypes to HTML elements using <a href="https://gist.githubusercontent.com/thatisuday/712a3fd1301ff31a316b9e59c69723f9/raw/dd005e164f8368e2f5bae778dc0ae802a013ed87/styles.css"><strong style:"color:green">CSS</strong></a>(Cascading style sheets)</p>
+<h2 style="font-family:'Roboto', sans-serif;">Rendering Sequence</h2>
+<p style="font-family:'Roboto', sans-serif;">When a web page is loaded, the browser first reads the HTML text and constructs DOM Tree from it. Then it processes the CSS whether that is inline, embedded, or external CSS and constructs the CSSOM Tree from it.
+
+After these trees are constructed, then it constructs the Render-Tree from it. Once the Render-Tree is constructed, then the browser starts the printing individual elements on the screen.</p>
+<h2 style="font-family:'Arial', sans-serif;">Layout operation</h2>
+<p style="font-family:'Arial', sans-serif;">The first browser creates the layout of each individual Render-Tree node. The layout consists of the size of each node in pixels and where (position) it will be printed on the screen. This process is called layout since the browser is calculating the layout information of each node.</p>
+<h2 style="font-family:'Roboto', sans-serif;">Rendering Process in browsers</h2>
+<p style="font-family:'Arial', sans-serif;">JavaScrpt language is stadardized throught the ECMAScript standard.Therefore, every JavaScript engine provides such as V8, Chakra, SpiderMonkey,etc</p>
+<p style="font-family:'Arial', sans-serif;">However, that’s not the case with how a browser renders things. HTML, CSS, or JavaScript, these languages are standardized by some entity or some organization. However, how a browser manages them together to render things on the screen is not standardized. The browser engine of Google Chrome might do things differently than the browser engine of Safari.</p><center>
+<img src="https://3fxtqy18kygf3on3bu39kh93-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/BrowserEngine.png" /></center>
+<div style="font-family:'Roboto', sans-serif;">
+<ol>
+<li>The requested HTML page is parsed in chunks, including the external CSS files and in style elements, by the rendering engine. The HTML elements are then converted into DOM nodes to form a “content tree” or “DOM tree.”</li></br>
+<li>Simultaneously, the browser also creates a render tree. This tree includes both the styling information as well as the visual instructions that define the order in which the elements will be displayed. The render tree ensures that the content is displayed in the desired order.</li></br>
+<li>Further, the render tree goes through the layout process. When a render tree is created, the position or size values are not assigned. The entire process of calculating values for evaluating the desired position is called a layout process. In this process, every node is assigned the exact coordinates. This ensures that every node appears at an accurate position on the screen.</li></br>
+<li>The final step is to paint the screen, wherein the render tree is traversed, and the renderer’s paint() method is invoked, which paints each node on the screen using the UI backend layer.</li></br>
+<ol>
+</div>
+        </div>
+        </div>
+    </body>
+</html>
