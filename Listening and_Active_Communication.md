@@ -42,6 +42,8 @@ Passive and aggressive communication might work better on some occasions. For ex
 
 ## How can you make your communication assertive? You can analyse the videos and then think what steps you can apply in your own life? (Watch the videos first before answering this question.)
 
-
-Ask someone else's opinion, then listen to the answer. When you disagree, try to say so without putting down the other person's point of view. For example, instead of saying: "That's a stupid idea," try: "I don't really like that idea." Or instead of saying: "He's such a jerk," try: "I think he's insensitive."
+- Assess your style. Do you voice your opinions or remain silent? Do you say yes to additional work even when your schedule is full? Are you quick to judge or blame? Do people seem to dread or fear talking to you? Understand your style before you begin making changes.
+- Use 'I' statements. Using I statements lets others know what you're thinking or feeling without sounding accusatory. For instance, say, "I disagree," rather than, "You're wrong." If you have a request, say, "I would like you to help with this" rather than, "You need to do this." Keep your requests simple, specific and clear.
+- Use body language. Communication isn't just verbal. Act confident even if you aren't feeling it. Keep an upright posture, but lean forward a bit. Make regular eye contact. Maintain a neutral or positive facial expression. Don't cross your arms or legs. Face the person. Practice assertive body language in front of a mirror or with a friend or colleague. In addition to what you say, your body language and facial expressions are also important.
+- Keep emotions in check. Conflict is hard for most people. Maybe you get angry or frustrated, or maybe you feel like crying. Although these feelings are typical, they can get in the way of resolving conflict. If you feel too emotional going into a situation, wait a bit if possible. Then work on remaining calm. Breathe slowly. Keep your voice even and firm.
 
