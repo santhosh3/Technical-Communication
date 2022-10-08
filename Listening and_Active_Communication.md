@@ -26,7 +26,7 @@ Face the speaker and maintain eye contact,Be attentive, but relaxed,Keep an open
 
 ## When do you switch to Passive communication style in your day to day life?
 
-Passive and aggressive communication might work better on some occasions. For example, if you are feeling fearful that you are about to be harmed, passive communication may help to defuse the situation and aggressive communication might prevent the problem from getting worse.
+PASSIVE COMMUNICATION is a style in which individuals have developed a pattern of avoiding expressing their opinions or feelings, protecting their rights, and identifying and meeting their needs. As a result, passive individuals do not respond overtly to hurtful or anger-inducing situations.
 
 ## When do you switch into Aggressive communication styles in your day to day life?
 
