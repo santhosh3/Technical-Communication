@@ -2,13 +2,11 @@
 ## 1. Grit
 
 ### Paraphrase (summarize) the video in a few lines. Use your own words.
-- It is found in research that grit is the driving force for any individual toward learning, to learn anything you need the courage to be on that path which is not easy to pursue, and for that courage, you need to be dedicated toward a growth mindset. Irrespective of individual skill set, IQ, and other factors, if anyone wants to learn he just needs to be keen to learn and should have strong willpower. 
+- It is found in research that grit is the driving force for any individual toward learning, to learn anything you need the courage to be on that path which is not easy to pursue, and for that courage, you need to be dedicated toward a growth mindset. Irrespective of individual skill set, IQ, and other factors, if anyone wants to learn he just needs to be keen to learn and should have strong willpower. And this is all about parsonality development and having a growth mindSet.
 
 ### What are your key takeaways from the video to take action on?
-- As far as I think one should have strong willpower to pursue learning. As research has shown intellect is not the driving force toward learning it is your dedication to learning and only your efforts decide whether you will reach the finish line or you will quit.
-
+- In this video I came to know what is grit actually understanding the personality of a person what he/she is going to do what is the abilty of the person motivation regarding the persons growth and willing to have strong mindset.
 ## 2. Introduction to Growth Mindset
-
 ### Paraphrase (summarize) the video in a few lines in your own words.
 - It is very beautifully explained how one's mindset can change his entire life. If you have a growth mindset you can achieve your goals and grow with time. It is very much required to have a growth mindset to lead one's life toward success. It only takes your mindset to change to live a better life. Putting in an effort, accepting challenges, embracing failure, and working on feedback can help you grow exponentially.
 
@@ -23,7 +21,7 @@
 ## 3. Understanding Internal Locus of Control
 
 ### What is the Internal Locus of Control? What is the key point in the video?
-- The Internal Locus of Control is what drives you to do the task, it is the ability to ask yourself why I'm not doing this. why can't I do this? and you roll up your sleeves and do the work. It is the factors that led you to ignore excuses and start looking for reasons to complete the task. It is the state where you are self-motivated. 
+- The Internal Locus of Control is what drives you to do the task, it is the ability to ask yourself why I'm not doing this. why can't I do this? and you roll up your selfes and do the work. It is the factors that led you to ignore excuses and start looking for reasons to complete the task. It is the state where you are self-motivated. It is one of the key factor and it will make us more to dont fall on demotivation. 
 
 - This video highlighted many points to remember, such one should always be positive, should always remain self-motivated, look for reasons to do the task never look for excuses. The lesson this video taught us is that be a doer, not an excuse maker and the barrier between you and your success is not external it is emotional.
 
@@ -39,6 +37,6 @@
 
 ### What are one or more points that you want to take action on from the manual?
 - The points that I want to take action on from the manual are -
-    - I will use the weapons of Documentation, Google, Stack Overflow, GitHub Issues, and the Internet before asking for help from fellow warriors or looking for a solution.
+    - I will always be enthusiastic. I will have a smile on my face when I face new challenges or meet people.
     - I am 100 percent responsible for my learning.
-    - I will understand each concept properly.
+    - I will be focused on mastery till I can do things half asleep. If someone wakes me up at 3 AM in the night, I will calmly solve the problem like James Bond and go to sleep.
