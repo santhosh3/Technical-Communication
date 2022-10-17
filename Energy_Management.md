@@ -3,13 +3,13 @@
 ## Q1. What are the activities you do that make you relax - Calm quadrant?
 
 - There are some activities that make me relax are -
-    1. Playing with my kid.
-    2. Listening to music, especially Bhajans.
-    3. Watching action or suspense movies.
+    1. Playing with my friends.
+    2. Listening to music.
+    3. Watching movies.
 
 ## Q2. When do you find getting into the Stress quadrant?
 
-- When I am unable to do any work before the deadline, unable to solve any problem, and not getting any results from utilizing a different approach, then I find myself in a stressful situation.
+- When I am unable to do any work before the deadline, unable to solve any problem, and not getting any results from utilizing a different approach, then I find myself in a stressful situation at that time I am not able to take anyThing into my brain.
 
 ## Q3. How do you understand if you are in the Excitement quadrant?
 
@@ -38,4 +38,4 @@
 
 ## Q7. What are some steps you can take to exercise more?
 
-- It is not required to take a membership in the GYM to do exercise or need to be a pro athlete to do exercise. It only takes some effort and willingness to do so. You can simply add some physical activities like jogging an extra mile, spot jumping, hand movements, and some aerobic exercises to pump your heart up a little.
+- Punchuality is the matter for this because if you are strong enough with other your brain automatically accept the changes exercise comes into picture on this activity makes us more stronger both mentally and physically. It only takes some effort and willingness to do so. You can simply add some physical activities like jogging an extra mile, spot jumping, hand movements, and some aerobic exercises to pump your heart up a little.
