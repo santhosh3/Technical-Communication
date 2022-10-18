@@ -9,7 +9,7 @@
 
 ## Q2. When do you find getting into the Stress quadrant?
 
-- When I am unable to do any work before the deadline, unable to solve any problem, and not getting any results from utilizing a different approach, then I find myself in a stressful situation at that time I am not able to take anyThing into my brain.
+- When I am unable to do any work before the deadline, unable to solve any problem, and not getting any results from utilizing a different approach, then I find myself in a stressful situation at that time. I am not able to get anything into my brain.
 
 ## Q3. How do you understand if you are in the Excitement quadrant?
 
@@ -19,23 +19,27 @@
 
 ## Q4. Paraphrase the Sleep is your Superpower video in detail.
 
-- Sleep is an essential activity of one's life, One should take a sufficient amount of sleep in order to remain healthy. Studies have shown people with less sleep are prone to have heart attacks, our immune systems are also gets affected, and aging is also common to sleep deprivation. Lack of sleep can result in major health issues.
+- Sleep is an essential activity in life. It is necessary to sleep enough to stay in good health. Studies have shown people with less sleep are prone to have heart attacks, our immune systems are also being affected, and aging is also common to sleep deprivation. Lack of sleep can result in major health issues.
 
 ## Q5. What are some ideas that you can implement to sleep better?
 
-- Relaxing your body, fixing a time to sleep, room temperature, exercising, and following a routine for having supper can help in better sleep.
+- Relaxing your body, fixing a time to sleep, room temperature, exercising, and following a routine for having supper can help with better sleep.
 
 # Brain Changing Benefits of Exercise
 
 ## Q6. Paraphrase the video - Brain Changing Benefits of Exercise.
 
-- There are many Brain Changing Benefits of Exercise, some of them are-
-    - Maintaining focus longer than earlier.
-    - Aging gets slow, and incurable diseases take longer to hit.
-    - Helps reduce obesity and makes you feel good.
-    - Helps you in relaxing.
+- There are many brain-Changing Benefits of Exercise. Some of them are-    
+    - Maintaining focus longer than earlier.    
+    - Aging gets slower, and incurable diseases take longer to hit.    
+    - Helps reduce obesity and makes you feel good.    
+    - Helps you slow relaxing.    
     - Helps in tackling stress.
+
+
+
+
 
 ## Q7. What are some steps you can take to exercise more?
 
-- Punchuality is the matter for this because if you are strong enough with other your brain automatically accept the changes exercise comes into picture on this activity makes us more stronger both mentally and physically. It only takes some effort and willingness to do so. You can simply add some physical activities like jogging an extra mile, spot jumping, hand movements, and some aerobic exercises to pump your heart up a little.
+- Punctuality is the matter for this because if you are strong enough with other your brain automatically accepts the changes exercise comes into the picture of this activity makes us stronger both mentally and physically. It only takes some effort and willingness to do so. You can simply add some physical activities like jogging an extra mile, sport jumping, hand movements, and some aerobic exercises to pump your heart up a little.
