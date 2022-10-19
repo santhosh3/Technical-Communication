@@ -2,7 +2,7 @@
 
 ## Q1. What are the activities you do that make you relax - Calm quadrant?
 
-- There are some activities that make me relax are -
+- Some activities that make me relax are -
     1. Playing with my friends.
     2. Listening to music.
     3. Watching movies.
@@ -13,19 +13,19 @@
 
 ## Q3. How do you understand if you are in the Excitement quadrant?
 
-- Whenever I am having a plan to execute and while executing it all goes well and expected results are occurring, I feel very excited.
+- Whenever I am having the plan to execute and while executing it all goes well and expected results are occurring, I feel very excited.
 
 # Sleep is your superpower
 
 ## Q4. Paraphrase the Sleep is your Superpower video in detail.
 
-- Sleep is an essential activity in life. It is necessary to sleep enough to stay in good health. Studies have shown people with less sleep are prone to have heart attacks, our immune systems are also being affected, and aging is also common to sleep deprivation. Lack of sleep can result in major health issues.
+- Sleep is an essential activity in life. It is necessary to sleep enough to stay in good health. Studies have shown people with less sleep are prone to have heart attacks, our immune systems are also being affected, and aging is also expected to sleep deprivation. Lack of sleep can result in major health issues.
 
 ## Q5. What are some ideas that you can implement to sleep better?
 
 - Relaxing your body, fixing a time to sleep, room temperature, exercising, and following a routine for having supper can help with better sleep.
 
-# Brain Changing Benefits of Exercise
+# Brain-Changing Benefits of Exercise
 
 ## Q6. Paraphrase the video - Brain Changing Benefits of Exercise.
 
@@ -42,4 +42,4 @@
 
 ## Q7. What are some steps you can take to exercise more?
 
-- Punctuality is the matter for this because if you are strong enough with other your brain automatically accepts the changes exercise comes into the picture of this activity makes us stronger both mentally and physically. It only takes some effort and willingness to do so. You can simply add some physical activities like jogging an extra mile, sport jumping, hand movements, and some aerobic exercises to pump your heart up a little.
+- Punctuality is the matter for this because if you are strong enough with others your brain automatically accepts the changes exercise comes into the picture of this activity makes us mentally and physically stronger. It only takes some effort and willingness to do so. You can simply add some physical activities like jogging an extra mile, sport jumping, hand movements, and some aerobic exercises to pump your heart up a little.
