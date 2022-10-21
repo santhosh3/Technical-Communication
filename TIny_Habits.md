@@ -18,7 +18,7 @@
 
 ### Q3. How can you use B = MAP to make making new habits easier?
 
--Behavior is the result of motivation, ability, and prompts taken at the same time. This is a simple formula that can lead to incredible results. In other words, a behavior is the result of Motivation, or your desire to execute the behavior.Ability, i.e. your capacity to execute the behavior.Prompt, or your cue to execute the behavior.This is true for building a habit and breaking an old habit in equal measure.
+- Behavior is the result of motivation, ability, and prompts taken at the same time. This is a simple formula that can lead to incredible results. In other words, a behavior is the result of Motivation, or your desire to execute the behavior.Ability, i.e. your capacity to execute the behavior.Prompt, or your cue to execute the behavior.This is true for building a habit and breaking an old habit in equal measure.
 
 
 ### Q4. Why it is important to "Shine" or Celebrate after each successful completion of a habit?
