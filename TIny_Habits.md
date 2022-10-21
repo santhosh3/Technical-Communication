@@ -4,55 +4,60 @@
 
 - To change long-term behavior we need to work on our tiny habits, one can follow the following points-
     
-    - Keep up the motivation from the beginning.
+    - Tiny habits can change a life forever doing some small changes daily in my life. I will it has a habit and work on small changes  
     - Start with tiny work, as easy tasks require very less motivating.
-    - Keep a reward ready after the tiny work.
-    - Once the task is done, celebrate and reward yourself.
-    - Choose an easy trigger to keep up the good work.
+    - There are 2 ways of long-term behavior you need to change your behavior and then you need to change people around you. This inspires me to change.
+    - Two things must and should have for long-term behavior are motivation and the ability to  I will make myself get motivated and complete the task.
 
 # Tiny Habits by BJ Fogg - Core Message
 
 ### Q2. Your takeaways from the video in as much detail as possible.
 
-- To do behavior change one needs to start with tiny habits, it's a time taking process but you will not notice the time when you will have a behavior change. To achieve the behavior change one should follow the B=MAP formula, where B is behavior, M is motivation, A is the ability and P is prompt or trigger. Always celebrate your success, keep tasks easy and simple, use easy triggers, and plan your task according to your behavior change.
+- one needs to change his behavior there are three prompts one can change his daily routine there External Prompts, Internal prompts, and External prompts most people failed to do it but we need to go step by step. Little steps taken consistently get further and closest to the once-desired goal. celebration is important because the more you celebrate the more you get motivated and make it a habit.
 
 
 ### Q3. How can you use B = MAP to make making new habits easier?
 
-- B=MAP formula, where B is behavior, M is motivation, A is the ability and P is prompt or trigger, can be followed to achieve behavior change, one should plan tiny habits according to behavior change and keep triggers easy and simple, choose tiny habits according to behavior change as easy, small and doable and enjoy the completion of habit to keep motivation pumped up.
+-Behavior is the result of motivation, ability, and prompts taken at the same time. This is a simple formula that can lead to incredible results. In other words, a behavior is the result of Motivation, or your desire to execute the behavior.Ability, i.e. your capacity to execute the behavior.Prompt, or your cue to execute the behavior.This is true for building a habit and breaking an old habit in equal measure.
 
 
 ### Q4. Why it is important to "Shine" or Celebrate after each successful completion of a habit?
 
-- To keep one motivated and pumped up, one should celebrate the successful completion of tasks. As this small celebration keeps the person motivated and encourages him to add up some complexity to the task.
+- Feeling good is a vital part of the Tiny Habits method. You can create this good feeling by using a technique I call “celebration.” When you celebrate, you create a positive feeling inside yourself on demand. This good feeling wires the new habit into your brain.
 
 # 1% Better Every Day Video
 
 ### Q5. Your takeaways from the video.
 
-- Long-term changes can not be achieved in one day it is a time taking and step-by-step process, to achieve behavior changes one needs to plan and simply work on little improvements every day.
-Getting tiny tasks successful one need to work on the start and make it easy and simple. A little improvement every day lead to achieving bigger goals in the long term process.
+- A little improvement every day lead to achieving bigger goals in the long term process Long-term changes can not be achieved in one day it is a time taking and step-by-step process, Focus on starting the habit and make it so it only takes 2mins to start it.Kill the habit: Think about in half a years time if you didn't fulfill the habits, why? Then plan accordingly to avoid 
 
 # Book Summary of Atomic Habits
 
 ### Q6. Write about the book's perspective on habit formation from the lens of Identity, processes, outcomes?
 
-- The book suggested many ways of adapting any habit and making that habit your style of living, for doing this, the first step is to identify the habit and why you need that to adapt?, second step is to architect the path and generate a process to achieve your goal of adopting that habit, the third and last step is to reward your self with the outcomes.
+- The book suggested many ways of adapting any habit and making that habit your style of living,With outcome-based habits, the focus is on what you want to achieve. These types of habits are the weekly, daily, minute-by-minute habits breaking bad behaviors and adopting good ones in four steps, showing you how small, incremental, everyday routines compound into massive, positive change over time
 
 ### Q7. Write about the book's perspective on how to make a good habit easier?
 
-- To make good habits easier to adapt and doable one should make the process of doing that habit easier. Doing that habit for less amount of time and rewarding yourself leads you to adopt that habit easily and quickly. The most important part of adopting any habit is to start, this is very crucial as many fails at the start, so architect your start in such a way that it feels easy and doable to start using that habit.
+Building good habits in 7 steps When building habits, you will often be replacing old ones. Here are seven ways to replace bad habits with healthier ones:
+
+- Eliminate triggers
+- Make a negative habit difficult
+- Uncover the root
+- Adopt healthy routines
+- Swap a bad habit for a better habit
+- Build motivation
 
 ### Q8. Write about the book's perspective on making a bad habit more difficult?
 
-- To make the bad habit more difficult is to keep them apart and make it difficult to reach them, never keep your bad habits near your good habits or connected. Reaching your bad habit should be difficult to start.
+- we need to replace unhealthy behaviour with healthy behaviour. need to prepare mentally. Reward your self for small steps.
 
 # Reflection:
 
 ### Q9. Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
 
-- I would like to work on more projects, I want to learn and explore frontend profiles, so I would plan my weekends according to that. I would connect more with my friends who are already in front-end profiles and look for the projects that they already did.
+- I want to make my day satisfying. It will be done when I am responsive. I want to become one good software engineer I will work smarter way to achieve my goals every day and freshly start my day with some practice and change myself it is my goal. This makes me more satisfying.
 
 ### Q10. Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
 
-- I would want to stay away from sugar as it is making me overweight, to achieve my goal I am planning to adopt alternatives to sugar like Honey. I am really worried about my weight that is the reason I have stopped consuming coffee and tea.
+- One of my bad habits of mine is sleep. I want to eleminate this habit of mine and change I will do wake up early day by day I will make it like a habit.
